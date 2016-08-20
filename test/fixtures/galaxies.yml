@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  empty: false
+  alive_users: 1
+  galaxy_title: MyText
+  diely_serveces: 1
+
+two:
+  empty: false
+  alive_users: 1
+  galaxy_title: MyText
+  diely_serveces: 1
